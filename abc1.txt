@@ -1,2 +1,5 @@
 this is my first git!
 gogogo
+this is my first git!
+gogogothis is my first git!
+gogogo
